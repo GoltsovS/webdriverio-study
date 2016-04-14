@@ -1,0 +1,14 @@
+{
+  "name": "webdriverio_wdio",
+  "version": "1.0.0",
+  "author": "Ivan Bausov",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "gulp": "^3.9.1",
+    "gulp-webdriver": "^2.0.1",
+    "selenium-standalone": "^5.1.0",
+    "wdio-mocha-framework": "^0.2.12",
+    "webdriverio": "^4.0.5"
+  }
+}
